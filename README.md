@@ -190,7 +190,7 @@
 ## 包结构
 
 ```
-wenhuo/
+wenhuo-skill/
 ├── README.md                    ← 你在这里（给人读的框架介绍）
 ├── SKILL.md                     ← Agent 执行入口（六 Phase + 三门 + 铁律 + 分支路由）
 ├── references/                  ← 按需加载的操作细则（SKILL.md 里指过去）

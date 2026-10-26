@@ -1,0 +1,6 @@
+__pycache__/
+*.pyc
+.venv/
+*.m4a
+*.mp3
+_transcripts/

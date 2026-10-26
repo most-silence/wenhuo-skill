@@ -4,3 +4,4 @@ __pycache__/
 *.m4a
 *.mp3
 _transcripts/
+debug.log
